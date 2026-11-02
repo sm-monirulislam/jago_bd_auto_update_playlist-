@@ -3,8 +3,8 @@
 # Playlist name : Jago BD Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 01:23:43 AM (BD Time)
-# All channel : 112
+# Last Updated: 06:15:13 AM (BD Time)
+# All channel : 113
 #=================================
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV-150x150.jpg?x89217" group-title="bangla-channel",Al Jazeera
@@ -386,6 +386,10 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/satvs-150x150.jpg?x89217" group-title="bangla-channel",SA TV
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=
+
+#EXTINF:-1 tvg-id="" tvg-name="Salaam Channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam-150x150.jpg?x89217" group-title="bangla-channel",Salaam Channel
+#EXTVLCOPT:http-referrer=https://www.jagobd.com/
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="" tvg-name="Samay Kolkata" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x89217" group-title="bangla-channel",Samay Kolkata
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
