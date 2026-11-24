@@ -3,8 +3,8 @@
 # Playlist name : Jago BD Playlist
 # Developed by: Monirul Islam
 # Telegram group : https://t.me/sm_iptv_bd
-# Last Updated: 02:22:46 PM (BD Time)
-# All channel : 113
+# Last Updated: 01:57:23 AM (BD Time)
+# All channel : 112
 #=================================
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV-150x150.jpg?x89217" group-title="bangla-channel",Al Jazeera
@@ -183,9 +183,9 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8?wmsAuthSign=
 
-#EXTINF:-1 tvg-id="" tvg-name="G Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/09/G-Bangla-150x150.png?x89217" group-title="bangla-channel",G Bangla
+#EXTINF:-1 tvg-id="" tvg-name="G- Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/G-Bangla-150x150.png?x89217" group-title="bangla-channel",G- Bangla
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gbangla.stream/playlist.m3u8?wmsAuthSign=
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="" tvg-name="Gazi Television – GTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/gtv-150x150.jpg?x89217" group-title="bangla-channel",Gazi Television – GTV
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
@@ -342,10 +342,6 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="" tvg-name="Noborup TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/n-150x150.png?x89217" group-title="bangla-channel",Noborup TV
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/noboruptv.stream/playlist.m3u8?wmsAuthSign=
-
-#EXTINF:-1 tvg-id="" tvg-name="Nondito TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/07/Nandito-TV-Logo-Orginal-File-150x150.png?x89217" group-title="bangla-channel",Nondito TV
-#EXTVLCOPT:http-referrer=https://www.jagobd.com/
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1 tvg-id="" tvg-name="NRB TV | Canada" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x89217" group-title="bangla-channel",NRB TV | Canada
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
